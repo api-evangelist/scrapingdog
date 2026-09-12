@@ -27,7 +27,7 @@ description: "Proxy API for Web scraping"
 url: https://www.scrapingdog.com/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-09-06'
 x-source: public-apis/public-apis
 x-category: "Development"
 x-tier: 3
@@ -54,6 +54,9 @@ common:
     url: https://github.com/public-apis/public-apis
   - url: https://www.scrapingdog.com/blog/rss.xml
     type: Blog
+  - name: MCP Documentation
+    url: https://www.scrapingdog.com/blog/scrapingdog-mcp-server/
+    type: MCPDocumentation
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
