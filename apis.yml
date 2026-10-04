@@ -39,7 +39,6 @@ apis:
   - name: ScrapingDog
     description: "Proxy API for Web scraping"
     humanURL: https://www.scrapingdog.com/
-    baseURL: https://www.scrapingdog.com/
     tags:
       - Development
     properties:
